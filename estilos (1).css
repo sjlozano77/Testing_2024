@@ -1,0 +1,15 @@
+body
+{
+    background: red;
+    color:blue;
+}
+.clase1{
+    color:green;
+    font-size: large;
+}
+
+.clase2{
+    color:purple;
+    background: grey;
+    font-size: xx-large;
+}
